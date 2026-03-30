@@ -18,3 +18,6 @@ bool isPrima(int x) {
     }
     return true;
 }
+
+// Fungsi untuk cek bilangan Fibonacci
+bool isFibonacci(int x) {}
