@@ -28,4 +28,6 @@ bool isFibonacci(int x) {
         a = b;
         b = c;
     }
+
+     return (c == x || x == 0);
 }
