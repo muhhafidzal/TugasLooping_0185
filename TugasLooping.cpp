@@ -50,4 +50,6 @@ void tampilPrima() {
 void tampilFibonacci() {
     if (isFibonacci(n))
         cout << n << " termasuk bilangan Fibonacci\n";
+    else
+        cout << n << " bukan bilangan Fibonacci\n";
 }
