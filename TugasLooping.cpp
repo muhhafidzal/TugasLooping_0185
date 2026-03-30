@@ -42,4 +42,6 @@ void inputAngka() {
 void tampilPrima() {
     if (isPrima(n))
         cout << n << " adalah bilangan prima\n";
+    else
+        cout << n << " bukan bilangan prima\n";
 }
